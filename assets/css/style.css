@@ -15,6 +15,13 @@ body {
 /* heading and logo */
 
 h1, h2 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+}
+
+#logo {
     float: left;
     font-size: 280%;
 }
